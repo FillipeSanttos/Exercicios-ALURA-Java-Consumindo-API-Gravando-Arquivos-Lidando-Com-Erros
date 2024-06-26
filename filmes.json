@@ -1,0 +1,26 @@
+[
+  {
+    "Titulo": "Matrix",
+    "Ano": 1993,
+    "IncluidoNoPlano": false,
+    "ValorTotalAvaliacoes": 0,
+    "QuantidadeDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 60
+  },
+  {
+    "Titulo": "Dogville",
+    "Ano": 2003,
+    "IncluidoNoPlano": false,
+    "ValorTotalAvaliacoes": 0,
+    "QuantidadeDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 17
+  },
+  {
+    "Titulo": "Top Gun",
+    "Ano": 1986,
+    "IncluidoNoPlano": false,
+    "ValorTotalAvaliacoes": 0,
+    "QuantidadeDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 10
+  }
+]
